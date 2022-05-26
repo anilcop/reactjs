@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactjs/static/css/main.945ff6dc.css",
+    "main.js": "/reactjs/static/js/main.9a40d0f2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactjs/static/js/787.28cb0dcd.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/reactjs/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/reactjs/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/reactjs/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/reactjs/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/reactjs/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/social-media-icon.png": "/reactjs/static/media/social-media-icon.30f66e683ca2a9792b62.png",
+    "index.html": "/reactjs/index.html",
+    "main.945ff6dc.css.map": "/reactjs/static/css/main.945ff6dc.css.map",
+    "main.9a40d0f2.js.map": "/reactjs/static/js/main.9a40d0f2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactjs/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.945ff6dc.css",
+    "static/js/main.9a40d0f2.js"
+  ]
+}
